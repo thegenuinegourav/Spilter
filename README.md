@@ -1,4 +1,5 @@
-<img src="/spam_classifier.jpg" width="75">
+<img src="/spam_classifier.jpg" width="75">  
+
 # Spilter  
   
 #### __*An Email Spam Filter.*__  
