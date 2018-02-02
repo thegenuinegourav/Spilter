@@ -1,4 +1,4 @@
-![VistArrow Logo](/app/src/main/res/mipmap-hdpi/ic_launcher.png)  
+<img src="/spam_classifier.jpg" width="75">
 # Spilter  
   
 #### __*An Email Spam Filter.*__  
